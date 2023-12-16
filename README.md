@@ -17,7 +17,7 @@ In addition to the many advantages of Unmanned Aerial Vehicle (UAV) technology, 
 
 ![Image](https://github.com/emineeminesahin/DroneDetectionWithYOLO/blob/main/images/mAp.png)
 
-**mAp values og the models**
+**mAp values of the models**
 
 ![Image](https://github.com/emineeminesahin/DroneDetectionWithYOLO/blob/main/images/f1-score.png)
 
